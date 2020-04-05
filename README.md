@@ -1,1 +1,2 @@
-# introduction-to-linear-algebra
+Introduction to linear algebra
+================================================
